@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="/skins/common/feed.css?207"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>BattleDawn  - Recent changes [en]</title>
+		<link>http://wiki.battledawn.com/index.php?title=Special:RecentChanges</link>
+		<description>Track the most recent changes to the wiki in this feed.</description>
+		<language>en</language>
+		<generator>MediaWiki 1.15.1</generator>
+		<lastBuildDate>Sat, 28 Jul 2018 04:21:57 GMT</lastBuildDate>
+	</channel>
+</rss>
